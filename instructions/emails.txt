@@ -1,0 +1,51 @@
+
+---------- Forwarded message ----------
+From: Stuart Robinson <stuart.clifford@gmail.com>
+Date: Wed, Jan 22, 2014 at 5:09 PM
+Subject: Re: xmls
+To: Bobby Madamanchi <akmadamanchi@gmail.com>
+
+
+oh nm.  you sent me 808 patient files.  i can't add.  
+
+
+On Wed, Jan 22, 2014 at 11:33 AM, Bobby Madamanchi <akmadamanchi@gmail.com> wrote:
+>
+> this looks fantastic
+>
+>
+>
+> On Wed, Jan 22, 2014 at 10:30 AM, Stuart Robinson <stuart.clifford@gmail.com> wrote:
+>>
+>> how are these?  still don't know why its missing files, it could be my fault. i don't want you to lose 5% of patients
+>>
+>>
+>> On Wed, Jan 22, 2014 at 11:10 AM, Stuart Robinson <stuart.clifford@gmail.com> wrote:
+>>>
+>>> ok here is final output, i thought it should be all the patients.  but it's only 810 lines.
+>>>
+>>> you sent me 856 files
+>>>
+>>> could some of the files not contain data?  i'm running again checking for data contents
+>>>
+>>>
+>>>
+>>> On Wed, Jan 22, 2014 at 12:15 AM, Stuart Robinson <stuart.clifford@gmail.com> wrote:
+>>>>
+>>>> looking now
+>>>>
+>>>>
+>>>> On Tue, Jan 21, 2014 at 1:14 PM, Bobby Madamanchi <akmadamanchi@gmail.com> wrote:
+>>>>>
+>>>>> hey attached are the 2 batches of xml files
+>>>>>
+>>>>> if you can easily parse them great. otherwise, i will find an R utility to grind through these tonight.
+>>>>>
+>>>>> i only need fields such as Tumor Grade, alive/dead, progression/remission, survival days, metastasis, and those types of outcome or staging related fields. I haven't really see whats on there yet.
+>>>>>
+>>>>> thanks
+>>>>
+>>>>
+>>>
+>>
+>

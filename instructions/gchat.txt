@@ -1,0 +1,82 @@
+Gmail	Stuart Robinson <stuart.clifford@gmail.com>
+Chat with Bobby Madamanchi
+January 22, 2014
+Stuart Robinson - 10:56 AM
+you there
+Bobby Madamanchi - 10:57 AM
+hey
+Stuart Robinson - 10:57 AM
+emailed test file, does this format look okay?
+alphabetized column names
+Bobby Madamanchi - 11:01 AM
+so each row is a new patient
+thats great
+i hope that did not take you all night
+Stuart Robinson - 11:03 AM
+20 minutes last night, hour this morning
+it's running now, will take a few minutes
+Bobby Madamanchi - 11:03 AM
+oh ok great thanks
+saved a ton of time on my end
+Stuart Robinson - 11:04 AM
+yeah one line per patient
+oh i like doing this stuff. good practice, and a nice break from the stocks stuff.
+Bobby Madamanchi - 11:05 AM
+so are you backtesting for 3 hours still?
+i mean 5years?
+Stuart Robinson - 11:05 AM
+oh no
+forward testing now
+set up interactivebrokers.com account
+Bobby Madamanchi - 11:05 AM
+ok
+Stuart Robinson - 11:06 AM
+they let you set up fake money account
+so they simulate market for me
+Bobby Madamanchi - 11:12 AM
+hey
+um
+i need to have the ID in the row
+i just noticed that
+Stuart Robinson - 11:13 AM
+patientID?
+Bobby Madamanchi - 11:13 AM
+its the TCGA-###-####
+Stuart Robinson - 11:13 AM
+oh, in the filename
+?
+Bobby Madamanchi - 11:13 AM
+yeah
+it should also be somewhere within thefile
+as well
+Stuart Robinson - 11:13 AM
+hmm
+Bobby Madamanchi - 11:13 AM
+but but just pulling fromthe filename would befine too
+Stuart Robinson - 11:14 AM
+oh fuck i see what i did
+okay
+it missed values containing weird characters like "-" and maybe "." hold on
+Bobby Madamanchi - 11:15 AM
+yeah these things are so badly curated
+and this is both the thyroid file and skin file together?
+they ahve the same headings?
+Stuart Robinson - 11:16 AM
+yeah they're all dumped together
+do you need separate files?
+Bobby Madamanchi - 11:16 AM
+no
+Stuart Robinson - 11:21 AM
+did you see email?
+any idea why my program would have skipped like 40+ patients?
+Bobby Madamanchi - 11:22 AM
+with this stuff its possible they were duplicates
+or they were empty
+i cant believe how badly the stuff is done
+810 is closer to what i was expecting
+497+306 is what i have sequencing data for anyway
+so if that is within these 810, thats great
+Stuart Robinson - 11:26 AM
+ok it's re-running, have to shower
+Bobby Madamanchi - 11:29 AM
+alright, thanks again
